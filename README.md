@@ -11,12 +11,13 @@ By the end of this course, our goal is to show what's possible by learning data 
 All weeks will comprise of (1) a lesson delivered through **workshops**, typically as a Jupyter Notebook, (2) supplemental practice to be completed during **labs**, (3) cumulative **projects** that apply data skills to real-world problems. 
 
 ### Course Materials
-All course material (slides, notebooks, datasets, etc.) will live in the [Node GitHub repository](https://github.com/ishaandey/node). For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow for downloading individual files.
+All course material (slides, notebooks, datasets, etc.) will live in the [Node GitHub repository](https://github.com/dt3zjy/node). For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow for downloading individual files.
 
 ### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
     - Walk through the data science process with a live City of San Francisco dataset
     - *Lab*: Setup tools for the semester
+<!--
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
     - *Lab*: Develop business insights with Gap sales data
@@ -45,9 +46,9 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
     - *[Project 3](./project-3) (Option 2)*: Learn something on your own, and publish an article on Medium!
 - [Week 10](./week-10): **Show and Tell** 
     - Show off your work! Show us anything you've made this semester, and we'll present what we're excited about, too.
-
+-->
 ## Contact
 Feel free to contact the team at *ishaan@hackcville.com* with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by Ishaan Dey at Forge (formerly HackCville), Summer 2020. **All content rights belong to Ishaan Dey unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, and the Forge team for their feedback and support.
+Content developed by Daniel Tohti at Forge (formerly HackCville), Spring 2022. **All content rights belong to Daniel Tohti unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, Ishaan Dey, and the Forge team for their feedback and support.
