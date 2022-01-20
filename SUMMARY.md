@@ -22,7 +22,7 @@
     * [Lab: Project 2](projects/project-2/README.md)
 
 
- * [Week 5: DEI in Tech!](week-5/README.md)    
+ * [Week 5: DEI in Tech!](week-5/README.md)    (want to figure this out asap)
     * [Workshop I: Project Presentations](week-5/README.md)
     * [Workshop II: Diversity, Equity, and Inclusion](week-5/README.md) 
     * [Lab: NASA Astronauts](archives/data-practice/README.md)  
@@ -39,11 +39,11 @@
 
 * [Week 8: Regression Models & Bias Variance](week-8/README.md)    
     * [Workshop I: Linear Regression](week-8/workshop/lin-reg/lin-reg.md)    
-    * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)    
+    * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)    (Switch this with Lab?)
     * [Lab: Logistic Regression](week-8/lab/log-reg.md)    
     * [Mid-Semester Feedback Form](https://fall21-midsemester.paperform.co/)
 
-* [Week 9: NLP + PCA](week-9/README.md)    
+* [Week 9: NLP + PCA](week-9/README.md)    (still up in the air)
     * [Workshop I: NLP](week-9/workshop/README.md)        
     * [Workshop II: PCA](week-9/workshop/pca.md)        
 
