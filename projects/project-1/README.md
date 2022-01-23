@@ -25,6 +25,6 @@ We'll use the following structure adapted from the [Center for Data Science and 
 
 Submit a 1-page, single-spaced ***PDF document*** to Ishaan via Slack no later than ***Sunday, September 19th*** at 3pm that has each of the sections above. Only one submission per group, make sure it has all group member names on the top. 
 
-Any questions? Let Daniel or I know on Slack! We're more than happy to help. 
+Any questions? Let Daniel or any of the PCs know on Slack! We're more than happy to help. 
 
 ![Source: Center for Policy Research, United Nations University](ethical-ai.jpg)
