@@ -13,6 +13,7 @@ Here's a few miscellaneous lists of datasets if you're looking for ideas:
 - Datasets from an old stats class: [Google Sheets](https://docs.google.com/spreadsheets/d/1DDaD_oAOZtWLHKbraTcDsMv7uxs8Tqn07ekKjMrh0eE/edit?usp=sharing)
 - Big datasets used in applied econ: [Blog](https://sebastiantellotrillo.com/resources/primer-where-to-find-data)
 - A data visualization competition with 150+ datasets: [GitHub](https://github.com/rfordatascience/tidytuesday#datasets)
+- A publically avaliable compiliation of data used by the Virginia government: [VODP](https://data.virginia.gov/)
 
 ## Deliverable: The Scoping Document
 
