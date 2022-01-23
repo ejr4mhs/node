@@ -9,7 +9,7 @@
     * [Workshop: San Francisco Trees](week-1/workshop/README.md)     
     * [Lab: Project 1](projects/project-1/README.md)
 <!--
-* [Week 2: Pandas!](week-2/README.md)    
+* [Week 2: Pandas!](week-2/README.md)    alksdjflkasjdfk
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
     * [Lab: GAP Part I](week-2/lab/README.md)  
 
