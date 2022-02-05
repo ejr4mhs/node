@@ -1,14 +1,24 @@
-# Tree Coverage in San Francisco
+# Crime Rates in Boston
 
-Imagine you've been commissioned by the City of San Francisco to tackle a problem they've been having with local flora. The parks department has taken extensive documentation of the city's trees since the 1970s - what species are growing, where they are, who they're maintained by - amassing a dataset of over 200K trees in that time.
+Imagine that you have been tasked with exploring the crime rates in different districts in the city of Boston through the police dataset. The specific districts we will be looking at is B2, B3, and D14. Some stats about main communities within these districts are shown below:
 
-The funding for that project has recently been called into question, and the City Board needs to see its value in reapproving funds for the following year. Stakeholders have raised several concerns over the past few years, and your job is to use the data to answer them. Good luck!
+**Mattapan and Roxbury (Districts B2 and B3)**
+- Median income: $19,362
+- Total population: 136,191
+- Unemployment rate: 13.6%
+
+**Middlesex (District D14)**
+- Median income: $59,435
+- Total population: 113,021
+- Unemployment rate: 3.4%
+
+The findings for this project will be useful in uncovering certain trends of crime throughout Boston and the communities within it. The informaiton here could determine where certain resources will be distributed within the Boston government for reducing crime. Good luck!
 
 ### Notes
 | Quick Open | Interactive Notebook | Source Code  |
 | :---------: | :-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-1/workshop/intro_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_notes.ipynb) | 
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-1/workshop/intro_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_notes.ipynb) | 
 ### Key
 | Quick Open | Interactive Notebook | Source Code  |
 | :---------: | :-----------: | :------------: |
-| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-1/workshop/intro_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-1/workshop/intro_key.ipynb) |
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-1/workshop/intro_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_key.ipynb) |
