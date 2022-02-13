@@ -15,6 +15,7 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 
 ### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
+    - [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSdAF208F9qb62flH3ai8-Av7cxoJ0RAjbqQt5bWngYuOI3HSg/viewform)
     - Walk through the data science process with a live City of San Francisco dataset
     - *Lab*: Setup tools for the semester
 <!--
