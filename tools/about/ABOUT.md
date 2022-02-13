@@ -3,7 +3,6 @@
 ## About Us
 Forge (formerly HackCville) is a Charlottesville non-profit that teaches high-demand skills from software development to graphic design. Check out [joinforge.co](https://joinforge.co/) for more programs and opportunities!
 
- ![Daniel & ](instructors-f21.jpg)
 
 ### Program Lead
 #### Daniel Tohti
