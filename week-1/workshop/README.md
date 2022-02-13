@@ -17,7 +17,8 @@ The findings for this project will be useful in uncovering certain trends of cri
 ### Notes
 | Quick Open | Interactive Notebook | Source Code  |
 | :---------: | :-----------: | :------------: | 
-| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-1/workshop/intro_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_notes.ipynb) | 
+| [![Link](../../tools/buttons/open-browser.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-1/workshop/intro_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.danieltohti.com/week-1/workshop/intro_notes.ipynb) |
+
 ### Key
 | Quick Open | Interactive Notebook | Source Code  |
 | :---------: | :-----------: | :------------: |
