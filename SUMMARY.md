@@ -58,6 +58,6 @@
     * [Workshop III: Environments made Easy](archives/devops/workshop/venv.md)    
 -->
 ## Projects
-* [Part I: Defining the Scope](projects/project-1/scoping.md)  
+* [Part I: Defining the Scope](projects/project-1/README.md)  
 * [Part II: Data Exploration](projects/project-2/README.md)    
 * [Part III: Predictive Modelling](projects/project-3/README.md) 
