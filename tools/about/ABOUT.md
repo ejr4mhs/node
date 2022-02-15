@@ -6,7 +6,7 @@ Forge (formerly HackCville) is a Charlottesville non-profit that teaches high-de
 
 ### Program Lead
 #### Daniel Tohti
-Hello everyone! My name is Daniel and I am a second year at UVA majoring in Aerospace Engineering with a minor in Computer Science. I'm super pumped to be meeting and working with all of you this semester! I really enjoy working with machine learning and big data sets, and I hope to combine data science and computer science with my passion in aerospace engineering. Outside of my academics, I enjoy cooking all types of food, cruising on my skateboard, and lifting at the gym. Feel free to email me anytime at **daniel.forge@joinforge.co** with any questions, or just to chat!
+Hello everyone! My name is Daniel and I am a second year at UVA majoring in Aerospace Engineering with a minor in Computer Science. I'm super pumped to be meeting and working with all of you this semester! I really enjoy working with machine learning and big data sets, and I hope to combine data science and computer science with my passion in aerospace engineering. Outside of my academics, I enjoy cooking all types of food, cruising on my skateboard, and lifting at the gym. Feel free to email me anytime at **daniel.tohti@joinforge.co** with any questions, or just to chat!
 
 ### Program Coordinators
 #### Evan Rees
