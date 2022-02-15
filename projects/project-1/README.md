@@ -24,7 +24,7 @@ We'll use the following structure adapted from the [Center for Data Science and 
 - **Analysis** – What patterns would you hope to show? How will you describe the data? Are there any columns that can be predicted?
 - **Ethical Considerations** – How can this project support inclusion and equality? Are there similar cases, either historical or ongoing? How did these projects navigate the ethical issues around data collection or usage?
 
-Submit a 1-page, single-spaced ***PDF document*** to Daniel via Slack no later than ***Sunday, September 19th*** at 3pm that has each of the sections above. Only one submission per group, make sure it has all group member names on the top. 
+Submit a 1-page, single-spaced ***PDF document*** to Daniel via Slack no later than ***Sunday, February 20th*** at 1pm that has each of the sections above. Only one submission per group, make sure it has all group member names on the top. 
 
 Any questions? Let Daniel or any of the PCs know on Slack! We're more than happy to help. 
 
