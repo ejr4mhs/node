@@ -8,11 +8,11 @@
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: Crime Rates in Boston](week-1/workshop/README.md)     
     * [Lab: Project 1](projects/project-1/README.md)
-<!--
-* [Week 2: Pandas!](week-2/README.md)    alksdjflkasjdfk
+
+* [Week 2: Pandas!](week-2/README.md)
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
     * [Lab: GAP Part I](week-2/lab/README.md)  
-
+<!--
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
     * [Lab: Node Survey](week-3/lab/README.md)  
