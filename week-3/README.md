@@ -12,6 +12,8 @@ Data cleaning is the least glamorous segment of a data scientist's routine, yet 
 
 ## Additional Resources
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Workshop 2 Review Sheet](https://docs.google.com/document/d/1-MBlrw-Ev6cZUoXln4bEFrTTM4XdQPyff56YspKNix4/edit?usp=sharing): Credit to Olivia Mostow
+
 
 ## Acknowledgements
 Today's `cleaning.ipynb` notebook was adapted from [Ben Artuso](https://github.com/benartuso), s/o for his help!
