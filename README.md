@@ -18,7 +18,6 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
     - [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSdAF208F9qb62flH3ai8-Av7cxoJ0RAjbqQt5bWngYuOI3HSg/viewform)
     - Walk through the data science process with a live City of San Francisco dataset
     - *Lab*: Setup tools for the semester
-<!--
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
     - *Lab*: Develop business insights with Gap sales data
@@ -26,6 +25,7 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 3](./week-3): **Everything Data Wrangling** 
     - Handle irregular data types and aggregate data from several sources
     - *Lab*: Develop business insights with Gap sales data
+<!--
 - [Week 4](./week-4): **Show, Don't Tell** 
     - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
     - *Lab*: Practice end-to-end EDA with Node class survey data
