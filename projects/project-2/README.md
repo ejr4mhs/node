@@ -9,6 +9,5 @@ Your goals:
 - Visualizations, numerical tables – whatever you need to answer the questions you laid out in the project scope
 - A Colab notebook ready-to-go with annotations in markdown cells or comments
 - Use of GitHub is *encouraged*, but not required!
-- Slack Ishaan the deliverable before next workshop!
 - Example project: [![Link](../../tools/buttons/open-jupyter.svg)](https://files.node.ishaandey.com/projects/project-2/michelin.html)
 
