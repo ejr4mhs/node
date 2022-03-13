@@ -1,6 +1,6 @@
 # Week 4: Data Viz!
 
-Before the pandemic trampled travel plans, a friend and I made plans to tour Seattle in summer 2020. We had just begun our planning, and knew the big spots we had to hit. Hotel rooms were fairly expensive, so we figured we'd get an Airbnb. But where? For how much? Only if we could use data to make a decision...
+Before the pandemic trampled travel plans, a friend and I made plans to tour Seattle in Summer 2020. We had just begun our planning, and knew the big spots we had to hit. Hotel rooms were fairly expensive, so we figured we'd get an Airbnb. But where? For how much? Only if we could use data to make a decision...
 
 ### Overview
 | **Activity**                   | Content Link    | Last Updated |
