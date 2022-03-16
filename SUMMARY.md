@@ -19,7 +19,7 @@
 
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
-    * [Lab: Project 2](projects/project-2/README.md)
+    * [Lab: More with Plotly](week-4/lab/README.md)
 
 <!--
  * [Week 5: DEI in Tech!](week-5/README.md)    (want to figure this out asap)
