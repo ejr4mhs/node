@@ -21,17 +21,17 @@
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: More with Plotly](week-4/lab/README.md)
 
+* [Week 5: Machine Learning!](week-6/README.md)    
+    * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
+    * [Workshop II: Heart Disease](week-6/workshop/README.md)     
+    * [Lab: Project Management](archives/ml-article/README.md) 
+
 <!--
- * [Week 5: DEI in Tech!](week-5/README.md)    (want to figure this out asap)
+* [Week 5: DEI in Tech!](week-5/README.md)    (want to figure this out asap)
     * [Workshop I: Project Presentations](week-5/README.md)
     * [Workshop II: Diversity, Equity, and Inclusion](week-5/README.md) 
     * [Lab: NASA Astronauts](archives/data-practice/README.md)  
-
-* [Week 6: Machine Learning!](week-6/README.md)    
-    * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
-    * [Workshop II: Heart Disease](week-6/workshop/README.md)     
-    * [Lab: Project Management](archives/ml-article/README.md)  
-
+ 
 * [Week 7: Algorithms & Performance](week-7/README.md)    
     * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
     * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
