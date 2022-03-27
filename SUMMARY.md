@@ -28,7 +28,7 @@
 
 * [Week 6: Guest Speakers & Presentations](week-5/README.md)    (want to figure this out asap)
     * [Workshop I: Project Presentations](week-5/README.md)
-    * [Workshop II: Diversity, Equity, and Inclusion](week-5/README.md) 
+    * [Workshop II: Guest Speakers](week-5/README.md) 
 
 <!--
 * [Week 7: Algorithms & Performance](week-7/README.md)    
