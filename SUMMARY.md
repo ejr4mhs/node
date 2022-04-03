@@ -30,7 +30,7 @@
     * [Workshop I: Project Presentations](week-5/README.md)
     * [Workshop II: Guest Speakers](week-5/README.md) 
 
-<!--
+
 * [Week 7: Algorithms & Performance](week-7/README.md)    
     * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
     * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
