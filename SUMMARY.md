@@ -35,7 +35,11 @@
     * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
     * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
     * [Lab: Confusion Matrices in Detail](week-7/lab/README.md) 
+<<<<<<< HEAD
     
+=======
+   
+>>>>>>> c558dd263ac35fc5818bbc859d0091afcfee8656
 * [Week 8: Regression Models & Bias Variance](week-8/README.md)    
     * [Workshop I: Linear Regression](week-8/workshop/lin-reg/lin-reg.md)    
     * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)
