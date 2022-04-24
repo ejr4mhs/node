@@ -14,7 +14,7 @@ We started off with the basics of working with data in Python, learning how to m
 
 Halfway through the semester, we took an aside to talk about GitHub, and how to share our code through Git. Shortly after, we stepped into machine learning, building up the human intuition behind models, seeing some behind-the-scenes of several algorithms, and capping off with a runthrough of classification metrics.
 
-All the content will live on in some format at [github.com/ishaandey/node](https://github.com/dt3zjy/node), if not at this website. 
+All the content will live on in some format at [github.com/dt3zjy/node](https://github.com/dt3zjy/node), if not at this website. 
 
 ### Feedback
 
