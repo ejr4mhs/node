@@ -22,7 +22,7 @@ We're always looking to improve here, and your thoughts are key piece of making 
 
 | **Quick Links**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
-| End of Semester Feedback | [![Link](../tools/buttons/open-forms.svg)](https://docs.google.com/forms/d/e/1FAIpQLSeXBz-fdf6-_JLu-2RtbkgJmK3eGppyuyBmLJj6EtyjQsaXUw/viewform) | 11-21-2021 |
+| End of Semester Feedback | [![Link](../tools/buttons/open-forms.svg)](https://forms.gle/QbhRuijPVgamsYDo6) | 04-24-2022 |
 
 ### What's next?
 
