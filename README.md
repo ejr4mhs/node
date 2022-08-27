@@ -15,9 +15,10 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 
 ### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
-    - [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSdAF208F9qb62flH3ai8-Av7cxoJ0RAjbqQt5bWngYuOI3HSg/viewform)
-    - Walk through the data science process with a live City of San Francisco dataset
+    - [Welcome Survey](https://forms.gle/rNWabuQsRDWTXhxB8)
+    - Walk through the data science process with a Titanic dataset
     - *Lab*: Setup tools for the semester
+<!--
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
     - *Lab*: Develop business insights with Gap sales data
@@ -28,7 +29,6 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 4](./week-4): **Show, Don't Tell** 
     - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
     - *Lab*: Practice end-to-end EDA
-<!--
 - [Week 5](./week-5): **DevOps 101** 
     - Learn industry-level practices for collaborating & publishing work: command line, git, and virtual environments
     - *Lab*: Write whimsical five-word stories with Git
@@ -52,4 +52,4 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 Feel free to contact the team at *daniel.tohti@joinforge.co* with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by Daniel Tohti and Ishaan Dey at Forge (formerly HackCville), Spring 2022. **All content rights belong to Daniel Tohti and Ishaan Dey unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, Ishaan Dey, and the Forge team for their feedback and support.
+Content developed by Daniel Tohti and Ishaan Dey at Forge (formerly HackCville), Fall 2022. **All content rights belong to Daniel Tohti and Ishaan Dey unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, Ishaan Dey, and the Forge team for their feedback and support.

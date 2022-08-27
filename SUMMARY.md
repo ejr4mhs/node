@@ -8,6 +8,7 @@
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: Titanic](week-1/workshop/README.md)     
     * [Lab: Project 1](projects/project-1/README.md)
+<!--
 
 * [Week 2: Pandas!](week-2/README.md)
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
@@ -61,5 +62,7 @@
 -->
 ## Projects
 * [Part I: Defining the Scope](projects/project-1/scoping.md)  
+<!-->
 * [Part II: Data Exploration](projects/project-2/README.md)    
-* [Part III: Predictive Modelling](projects/project-3/README.md) 
+* [Part III: Predictive Modelling](projects/project-3/README.md)
+-->
