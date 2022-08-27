@@ -6,6 +6,6 @@ Welcome to Node! We're glad to have you. This week we'll help you get your beari
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
 | Slides                         | [![Link](../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/e/2PACX-1vR6UaFxr9rw9fj2p4TinrpfvvnPP4wqd4-zZ0c6aXsX6enfEQk1JdlBl9BBUWrtWOs5bF5UkVkqex_1/pub?start=false&loop=false&delayms=60000) | 02-05-2022 |
-| Workshop Activities (Titanic)| [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 02-04-2022 | 
+| Workshop Activities (Titanic)| [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 08-26-2022 | 
 | Lab                            | [![Link](../tools/buttons/open-markdown.svg)](../projects/project-1/README.md)  | 01-29-2021 |
 | Welcome Form                   | [![Link](../tools/buttons/open-forms.svg)](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSdAF208F9qb62flH3ai8-Av7cxoJ0RAjbqQt5bWngYuOI3HSg/viewform&sa=D&source=editors&ust=1644777290053234&usg=AOvVaw2BIEjc31ePI0scskKQl7qs) | Due 02-13-2022 5:00 PM |
