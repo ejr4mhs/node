@@ -16,7 +16,7 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 ### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
     - [Welcome Survey](https://forms.gle/rNWabuQsRDWTXhxB8)
-    - Walk through the data science process with a Titanic dataset
+    - Walk through the data science process with a Crime dataset
     - *Lab*: Setup tools for the semester
 <!--
 - [Week 2](./week-2): **Panda, Panda, Panda** 

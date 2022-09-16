@@ -6,7 +6,7 @@
 
 ## Content
 * [Week 1: Welcome to Data!](week-1/README.md)    
-    * [Workshop: Titanic](week-1/workshop/README.md)     
+    * [Workshop: Crime](week-1/workshop/README.md)     
     * [Lab: Project 1](projects/project-1/README.md)
 <!--
 

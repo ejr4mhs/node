@@ -14259,6 +14259,30 @@ a.anchor-link {
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h1 id="Crime-Rates-in-Boston">Crime Rates in Boston<a class="anchor-link" href="#Crime-Rates-in-Boston">&#182;</a></h1>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Imagine that you have been tasked with exploring the crime rates in different districts in the city of Boston through the police dataset. The specific districts we will be looking at is B2, B3, and D14. Some stats about main communities within these districts are shown below:</p>
+<p><strong>Mattapan and Roxbury (Districts B2 and B3)</strong></p>
+<ul>
+<li>Median income: $19,362</li>
+<li>Total population: 136,191</li>
+<li>Unemployment rate: 13.6%</li>
+</ul>
+<p><strong>Middlesex (District D14)</strong></p>
+<ul>
+<li>Median income: $59,435</li>
+<li>Total population: 113,021</li>
+<li>Unemployment rate: 3.4%</li>
+</ul>
+<p>The findings for this project will be useful in uncovering certain trends of crime throughout Boston and the communities within it. The informaiton here could determine where certain resources will be distributed within the Boston government for reducing crime. Good luck!</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Jupyter-Notebook">Jupyter Notebook<a class="anchor-link" href="#Jupyter-Notebook">&#182;</a></h2>
 </div>
 </div>
@@ -14289,7 +14313,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Set a variable</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Set a variable</span>
 </pre></div>
 
      </div>
@@ -14303,7 +14327,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Return it with print</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Return it without print</span>
 </pre></div>
 
      </div>
@@ -14327,7 +14351,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Write a function</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Write a function here</span>
 </pre></div>
 
      </div>
@@ -14341,7 +14365,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Call it</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Call it here</span>
 </pre></div>
 
      </div>
@@ -14368,7 +14392,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#import pandas and numpy</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Import pandas and numpy</span>
 </pre></div>
 
      </div>
@@ -14379,12 +14403,11 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Importing-data-(Titanic-Dataset)">Importing data (Titanic Dataset)<a class="anchor-link" href="#Importing-data-(Titanic-Dataset)">&#182;</a></h2>
+<h2 id="Importing-data">Importing data<a class="anchor-link" href="#Importing-data">&#182;</a></h2>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>We'll be looking at a dataset of all the passengers of the titanic and their information along with whether they survived.</p>
 <p>For this semester, we'll typically work with data in <em>tabular</em> format, the type you'd be used to in an excel spreadsheet. Data files saved in this format will usually have a <code>.csv</code> file ending, short for comma seperated values.</p>
 
 </div>
@@ -14393,9 +14416,10 @@ a.anchor-link {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>For example, a CSV file could look something like...</p>
 
-<pre><code>PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-892,0,3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q
-893,1,3,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,,S</code></pre>
+<pre><code>INCIDENT_NUMBER, OFFENSE_DESCRIPTION, DISTRICT, SHOOTING,
+PLTEST005, BURGLARY - RESIDENTIAL, B2 , True
+PLTEST003, INVESTIGATE PROPERTY, B2, False
+PLTEST002, INVESTIGATE PROPERTY, B2, False</code></pre>
 
 </div>
 </div>
@@ -14410,8 +14434,8 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Read in the dataframe</span>
-<span class="n">url</span> <span class="o">=</span> <span class="s1">&#39;https://raw.githubusercontent.com/dt3zjy/node/master/week-1/workshop/titanic.csv&#39;</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Read in the dataframe</span>
+<span class="n">url</span> <span class="o">=</span> <span class="s1">&#39;https://raw.githubusercontent.com/dt3zjy/node/master/week-1/workshop/boston_crime.csv&#39;</span>
 </pre></div>
 
      </div>
@@ -14431,7 +14455,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Check out the type</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Check the type</span>
 </pre></div>
 
      </div>
@@ -14462,7 +14486,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Take a peek at the data</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Take a peek at the data</span>
 </pre></div>
 
      </div>
@@ -14470,17 +14494,6 @@ a.anchor-link {
 </div>
 </div>
 
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<ul>
-<li>Pclass: Different classes within the ship (first class, etc.)</li>
-<li>SibSp: Number of siblings that passenger had</li>
-<li>Parch: Number of parents or children that passenger had</li>
-<li>Embarked: Where the passenger boarded from --&gt; Q is Queenstown, S is Southampton, C is Cherbourg</li>
-</ul>
-
-</div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
@@ -14493,7 +14506,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Show shape</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Show shape</span>
 </pre></div>
 
      </div>
@@ -14506,7 +14519,7 @@ a.anchor-link {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>Let's try to understand our data a bit better.</p>
 <ul>
-<li>How many different classes are in the dataset? </li>
+<li>How many different crimes are in the dataset? </li>
 </ul>
 
 </div>
@@ -14516,7 +14529,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Number of unique</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Number of unique</span>
 </pre></div>
 
      </div>
@@ -14528,7 +14541,7 @@ a.anchor-link {
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <ul>
-<li>Where did the passengers come from? How many?</li>
+<li>Which crime happens the most frequently?</li>
 </ul>
 
 </div>
@@ -14538,7 +14551,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Value counts</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Value counts</span>
 </pre></div>
 
      </div>
@@ -14549,7 +14562,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Show the oldest passenger by sorting the dataframe:</p>
+<p>Show the most recent crime by sorting the dataframe:</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs   celltag_workshop">
@@ -14558,7 +14571,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Sort values</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Sort values</span>
 </pre></div>
 
      </div>
@@ -14582,7 +14595,7 @@ a.anchor-link {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>We can filter rows from a dataframe based on some condition</p>
 <ul>
-<li>Show passengers that boarded from <code>Q</code> (Queenstown)</li>
+<li>Show crimes that happened on <code>WASHINGTON ST</code></li>
 </ul>
 
 </div>
@@ -14592,7 +14605,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Subset by Q</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Subset by Washington St</span>
 </pre></div>
 
      </div>
@@ -14603,7 +14616,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>How would you show all passengers that were 21+ years old?</p>
+<p>How would you show only crimes north of the Museum of Fine Arts in Boston (Lat &gt; <code>42.3394</code>)</p>
 <p>Hint: Same way as matching if statements in python, mirroring the syntax above</p>
 
 </div>
@@ -14613,7 +14626,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Your Turn!</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Your turn!</span>
 </pre></div>
 
      </div>
@@ -14629,7 +14642,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>What is the percentage of passengers with a sibling?</p>
+<p>What is the percentage of crimes where a shooting occurred?</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -14638,7 +14651,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Find percentage</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Finding percentage</span>
 </pre></div>
 
      </div>
@@ -14664,7 +14677,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Import px</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Import</span>
 </pre></div>
 
      </div>
@@ -14682,7 +14695,7 @@ a.anchor-link {
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>Plotly express has a broad range of options to play with, let's take a look at the documentation. 
-<br>Do a quick google search to pull up documentation for <code>px.scatter</code> OR run <code>px.scatter?</code> in a Jupyter cell</p>
+<br>Do a quick google search to pull up documentation for <code>px.histogram</code> OR run <code>px.histogram?</code> in a Jupyter cell</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs   celltag_workshop">
@@ -14691,7 +14704,7 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Find more info on px.histogram</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Find more info on px.histogram</span>
 </pre></div>
 
      </div>
@@ -14702,16 +14715,31 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Let's look at the age distribution</p>
+<p>Let's look at the top ten most frequent crimes</p>
 
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">crime_sample</span> <span class="o">=</span> <span class="n">crime</span><span class="o">.</span><span class="n">sample</span><span class="p">(</span><span class="n">frac</span><span class="o">=</span><span class="mf">.2</span><span class="p">)</span>
+<span class="n">crime_sample</span> <span class="o">=</span> <span class="n">crime_sample</span><span class="p">[</span><span class="n">crime_sample</span><span class="p">[</span><span class="s1">&#39;OFFENSE_DESCRIPTION&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">crime_sample</span><span class="p">[</span><span class="s1">&#39;OFFENSE_DESCRIPTION&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()[</span><span class="mi">0</span><span class="p">:</span><span class="mi">10</span><span class="p">]</span><span class="o">.</span><span class="n">index</span><span class="p">)]</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs   celltag_workshop">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Histogram</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Histogram</span>
 </pre></div>
 
      </div>
@@ -14728,48 +14756,30 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Machine-Learning-Showcase">Machine Learning Showcase<a class="anchor-link" href="#Machine-Learning-Showcase">&#182;</a></h3>
+<h3 id="Geographic-Plots">Geographic Plots<a class="anchor-link" href="#Geographic-Plots">&#182;</a></h3>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Let's take this data and apply machine learning on it. Are you able to find out if someone survived based on their information?</p>
+<p>Let's take this data into a geographic plot. These crimes happen at certain PLACES, so let's see if we can find a trend.</p>
+<ul>
+<li>Just because there are more data points at a certain district, does that always mean more crime will happen there?<ul>
+<li>Think about where the data is coming from. Is there another story behind it?</li>
+</ul>
+</li>
+</ul>
 
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs   celltag_workshop">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.tree</span> <span class="kn">import</span> <span class="n">DecisionTreeClassifier</span>
-<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">train_test_split</span>
-<span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="kn">import</span> <span class="n">accuracy_score</span>
-
-<span class="n">titanic</span> <span class="o">=</span> <span class="n">titanic</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;Name&#39;</span><span class="p">,</span> <span class="s1">&#39;Ticket&#39;</span><span class="p">,</span><span class="s1">&#39;Fare&#39;</span><span class="p">,</span><span class="s1">&#39;Cabin&#39;</span><span class="p">,</span><span class="s1">&#39;Embarked&#39;</span><span class="p">])</span>
-
-<span class="n">titanic</span> <span class="o">=</span> <span class="n">titanic</span><span class="o">.</span><span class="n">dropna</span><span class="p">()</span>
-<span class="n">titanic</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">get_dummies</span><span class="p">(</span><span class="n">titanic</span><span class="p">)</span>
-
-<span class="n">X</span> <span class="o">=</span> <span class="n">titanic</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="s1">&#39;Survived&#39;</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
-<span class="n">y</span> <span class="o">=</span> <span class="n">titanic</span><span class="p">[</span><span class="s1">&#39;Survived&#39;</span><span class="p">]</span>
-
-<span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">test_size</span><span class="o">=</span><span class="mf">0.2</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span>
-
-<span class="n">clf</span> <span class="o">=</span> <span class="n">DecisionTreeClassifier</span><span class="p">(</span><span class="n">max_depth</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
-<span class="n">clf</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
-
-<span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">display</span><span class="p">,</span> <span class="n">HTML</span>
-<span class="kn">from</span> <span class="nn">sklearn.tree</span> <span class="kn">import</span> <span class="n">export_graphviz</span>
-<span class="kn">from</span> <span class="nn">graphviz</span> <span class="kn">import</span> <span class="n">Source</span>
-
-<span class="n">graph</span> <span class="o">=</span> <span class="n">Source</span><span class="p">(</span><span class="n">export_graphviz</span><span class="p">(</span><span class="n">clf</span><span class="p">,</span>
-                        <span class="n">out_file</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span>
-                        <span class="n">feature_names</span><span class="o">=</span><span class="n">X_train</span><span class="o">.</span><span class="n">columns</span><span class="p">,</span>
-                        <span class="n">class_names</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;Not Survived&#39;</span><span class="p">,</span> <span class="s1">&#39;Survived&#39;</span><span class="p">],</span>
-                        <span class="n">filled</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span>
-                        <span class="n">rounded</span><span class="o">=</span><span class="kc">True</span><span class="p">))</span>
-<span class="n">graph</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="o">.</span><span class="n">scatter_mapbox</span><span class="p">(</span><span class="n">crime_sample</span><span class="p">[</span><span class="n">crime_sample</span><span class="p">[</span><span class="s1">&#39;DISTRICT&#39;</span><span class="p">]</span><span class="o">!=</span><span class="s1">&#39;B2&#39;</span><span class="p">],</span> <span class="n">lat</span><span class="o">=</span><span class="s1">&#39;Lat&#39;</span><span class="p">,</span> <span class="n">lon</span><span class="o">=</span><span class="s1">&#39;Long&#39;</span><span class="p">,</span> <span class="n">mapbox_style</span><span class="o">=</span><span class="s2">&quot;stamen-terrain&quot;</span><span class="p">,</span> <span class="n">zoom</span><span class="o">=</span><span class="mf">10.5</span><span class="p">,</span>
+ <span class="n">color</span><span class="o">=</span><span class="s1">&#39;OFFENSE_DESCRIPTION&#39;</span><span class="p">,</span> <span class="n">hover_name</span><span class="o">=</span><span class="s1">&#39;STREET&#39;</span><span class="p">,</span> <span class="n">hover_data</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;STREET&#39;</span><span class="p">,</span><span class="s1">&#39;SHOOTING&#39;</span><span class="p">],</span>
+ <span class="p">)</span>
+<span class="n">fig</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 
      </div>
@@ -14777,6 +14787,21 @@ a.anchor-link {
 </div>
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Skim-Over-These-Articles...">Skim Over These Articles...<a class="anchor-link" href="#Skim-Over-These-Articles...">&#182;</a></h2><ul>
+<li><a href="https://www.wgbh.org/news/local-news/2020/06/12/black-people-made-up-70-percent-of-boston-police-stops-department-data-show">Overpolicing in Boston</a></li>
+<li><a href="https://www.vera.org/publications/what-policing-costs-in-americas-biggest-cities/boston-ma">What Policing Costs in Boston</a></li>
+</ul>
+<p>Does this paint a different light on the data?</p>
+<h2 id="So,-What's-the-Takeaway?">So, What's the Takeaway?<a class="anchor-link" href="#So,-What's-the-Takeaway?">&#182;</a></h2><ul>
+<li>Don't blindly take a dataset, analyze it, and jump to a conclusion</li>
+<li><strong>Think</strong>: Where is the data coming from? <em>Why</em> is this trend being shown through the data?</li>
+<li>Look at the <em>whole</em> picture!</li>
+</ul>
+
+</div>
 </div>
 </body>
 
