@@ -18,11 +18,12 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
     - [Welcome Survey](https://forms.gle/rNWabuQsRDWTXhxB8)
     - Walk through the data science process with a Crime dataset
     - *Lab*: Setup tools for the semester
-<!--
+
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
     - *Lab*: Develop business insights with Gap sales data
     - [Project 1](projects/project-1/): Data Ethics
+<!--
 - [Week 3](./week-3): **Everything Data Wrangling** 
     - Handle irregular data types and aggregate data from several sources
     - *Lab*: Develop business insights with Gap sales data
