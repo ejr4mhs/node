@@ -1,9 +1,6 @@
 # Week 5: Project Presentations
 
 
-### Guest Speakers!
-
-
 ### Presentations!
 
 
