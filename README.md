@@ -23,13 +23,15 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
     - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
     - *Lab*: Develop business insights with Gap sales data
     - [Project 1](projects/project-1/): Data Ethics
-<!--
+
 - [Week 3](./week-3): **Everything Data Wrangling** 
     - Handle irregular data types and aggregate data from several sources
     - *Lab*: Develop business insights with Gap sales data
+
 - [Week 4](./week-4): **Show, Don't Tell** 
     - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
     - *Lab*: Practice end-to-end EDA
+<!--
 - [Week 5](./week-5): **DevOps 101** 
     - Learn industry-level practices for collaborating & publishing work: command line, git, and virtual environments
     - *Lab*: Write whimsical five-word stories with Git
