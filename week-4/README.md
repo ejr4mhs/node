@@ -6,8 +6,9 @@ Before the pandemic trampled travel plans, a friend and I made plans to tour Sea
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
 | Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 10-03-2021 | 
-<!--| Lab                            | [![Link](../tools/buttons/open-markdown.svg)](lab/README.md)  | 03-16-2022 |-->
 | Project 2                      | [![Link](../tools/buttons/open-article.svg)](../projects/project-2/README.md)  | NA |         
 
 ## Additional Resources
 - [Python Graph Gallery](https://python-graph-gallery.com/)
+
+<!--| Lab                            | [![Link](../tools/buttons/open-markdown.svg)](lab/README.md)  | 03-16-2022 |-->
