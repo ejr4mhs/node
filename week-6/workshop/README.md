@@ -1,8 +1,8 @@
 # Introduction to Machine Learning
 
 
-### Introduction: Beer or Bezos?
-Link to live model: [![Link](../../tools/buttons/open-browser.svg)](https://teachablemachine.withgoogle.com/models/p8zsmyDmY/)
+### Introduction: Pong Ball Picker
+Link to live model: [![Link](../../tools/buttons/open-browser.svg)](https://teachablemachine.withgoogle.com/models/NijezZ74z/)
 <br> Made with [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ### Part I: Human Learning
