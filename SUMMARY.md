@@ -24,12 +24,12 @@
 * [Week 5: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
-<!--\    * [Lab: Project Management](archives/ml-article/README.md) 
+    
 
 * [Week 6: Presentations](week-5/README.md)
-    * [Workshop I: Guest Speakers](week-5/README.md) 
+     
 
-
+<!--\ 
 * [Week 7: Algorithms & Performance](week-7/README.md)    
     * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
     * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
