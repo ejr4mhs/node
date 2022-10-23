@@ -20,15 +20,14 @@
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: More with Plotly](week-4/lab/README.md)
-<!--
+
 * [Week 5: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
     * [Lab: Project Management](archives/ml-article/README.md) 
-
-* [Week 6: Guest Speakers & Presentations](week-5/README.md)    (want to figure this out asap)
-    * [Workshop I: Project Presentations](week-5/README.md)
-    * [Workshop II: Guest Speakers](week-5/README.md) 
+<!--\
+* [Week 6: Presentations](week-5/README.md)
+    * [Workshop I: Guest Speakers](week-5/README.md) 
 
 
 * [Week 7: Algorithms & Performance](week-7/README.md)    
