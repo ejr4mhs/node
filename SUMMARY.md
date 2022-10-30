@@ -25,16 +25,13 @@
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     
     
-
 * [Week 6: Presentations](week-5/README.md)
      
-
-<!--\ 
 * [Week 7: Algorithms & Performance](week-7/README.md)    
     * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
     * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
     * [Lab: Confusion Matrices in Detail](week-7/lab/README.md) 
-    
+<!-- 
 * [Week 8: Regression Models & Bias Variance](week-8/README.md)    
     * [Workshop I: Linear Regression](week-8/workshop/lin-reg/lin-reg.md)    
     * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)
@@ -43,7 +40,7 @@
 
 * [Week 9: Show and Tell!](week-10/README.md)
 
-<!--
+
 * [Week 9: NLP + PCA](week-9/README.md)    (still up in the air)
     * [Workshop I: NLP](week-9/workshop/README.md)        
     * [Workshop II: PCA](week-9/workshop/pca.md)        
