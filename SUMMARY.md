@@ -31,13 +31,13 @@
     * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
     * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
     * [Lab: Confusion Matrices in Detail](week-7/lab/README.md) 
-<!-- 
+
 * [Week 8: Regression Models & Bias Variance](week-8/README.md)    
     * [Workshop I: Linear Regression](week-8/workshop/lin-reg/lin-reg.md)    
     * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)
     * [Lab: Logistic Regression](week-8/lab/log-reg.md)    
-    * [Mid-Semester Feedback Form](https://fall21-midsemester.paperform.co/)
 
+<!-- 
 * [Week 9: Show and Tell!](week-10/README.md)
 
 
