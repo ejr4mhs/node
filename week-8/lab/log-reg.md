@@ -60,9 +60,9 @@ Above is an example of a logistic curve along with the equation for it. You may 
 #### Notes
  | Quick Open | Interactive Notebook | Source Code  |
  | :--------: | :-----------: | :------------: |
- | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/lab/log-reg_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_notes.ipynb) |
+ | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.dt3zjy.com/week-8/lab/log-reg_notes.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-8/lab/log-reg_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.dt3zjy.com/week-8/lab/log-reg_notes.ipynb) |
 
 #### Key
  | Quick Open | Interactive Notebook | Source Code  |
  | :--------: |:-----------: | :------------: |
- | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-8/lab/log-reg_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-8/lab/log-reg_key.ipynb) |
+ | [![Link](../../tools/buttons/open-browser.svg)](https://files.node.dt3zjy.com/week-8/lab/log-reg_key.html) | [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-8/lab/log-reg_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.dt3zjy.com/week-8/lab/log-reg_key.ipynb) |
