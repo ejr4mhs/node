@@ -1,10 +1,6 @@
-# Week 10: Show and Tell!
+# Week 9: Show and Tell!
  
 Congrats on making it all the way through! We hope y'all learned something cool the last few weeks.
-
-| **Quick Links**                   | Content Link    | Last Updated |
-| ---------------                | --------------- | ----------   |
-| Showcase Submissions | [![Link](../tools/buttons/open-forms.svg)](https://docs.google.com/forms/d/e/1FAIpQLSeXBz-fdf6-_JLu-2RtbkgJmK3eGppyuyBmLJj6EtyjQsaXUw/viewform) | 11-21-2021 |
 
 ### What we learned
 
@@ -32,4 +28,8 @@ There's so many places to go from here.
 - Take some UVA classes! The instructors would be more than happy to suggest Stat, CS, and DS courses for all majors & skill levels
 - Make something cool! Pick a new dataset, refine a project from class, there's no wrong expeience here
 - Talk to a professor! No matter which department you're in, there's bound to be folks who need data experience — I've worked in places from sociology to biology.
-- Read! There's tons of good books out there. If you're looking for something technical, try [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/index.html) by James et al. On the ethics side, read [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) by Cathy O'Neil.
+
+
+| **Quick Links**                   | Content Link    | Last Updated |
+| ---------------                | --------------- | ----------   |
+| PL/PC Application | [![Link](../tools/buttons/open-forms.svg)](https://docs.google.com/forms/d/e/1FAIpQLScisfFAWn_Q7UWxAP7eMPyxj5Vraevnrwng-47EXsSi2CMcRg/viewform) | 12-04-2022 |

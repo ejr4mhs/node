@@ -37,10 +37,9 @@
     * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)
     * [Lab: Logistic Regression](week-8/lab/log-reg.md)    
 
-<!-- 
 * [Week 9: Show and Tell!](week-10/README.md)
 
-
+<!-- 
 * [Week 9: NLP + PCA](week-9/README.md)    (still up in the air)
     * [Workshop I: NLP](week-9/workshop/README.md)        
     * [Workshop II: PCA](week-9/workshop/pca.md)        
@@ -57,7 +56,5 @@
 -->
 ## Projects
 * [Part I: Defining the Scope](projects/project-1/scoping.md)  
-<!-->
 * [Part II: Data Exploration](projects/project-2/README.md)    
 * [Part III: Predictive Modelling](projects/project-3/README.md)
--->
