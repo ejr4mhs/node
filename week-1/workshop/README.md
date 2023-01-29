@@ -14,7 +14,7 @@ Imagine that you have been tasked with exploring the crime rates in different di
 
  The findings for this project will be useful in uncovering certain trends of crime throughout Boston and the communities within it. The informaiton here could determine where certain resources will be distributed within the Boston government for reducing crime. Good luck!
 
-### [Crime Dataset](https://files.node.danieltohti.com/week-1/workshop/boston_crime.csv)
+### [Crime Dataset](https://raw.githubusercontent.com/dt3zjy/node/master/week-1/workshop/boston_crime.csv)
 
 ### Notes
 | Quick Open | Interactive Notebook | Source Code  |

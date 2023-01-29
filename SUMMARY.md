@@ -8,7 +8,7 @@
 * [Week 1: Welcome to Data!](week-1/README.md)    
     * [Workshop: Crime](week-1/workshop/README.md)     
     * [Lab: Project 1](projects/project-1/README.md)
-
+<!-- 
 * [Week 2: Pandas!](week-2/README.md)
     * [Workshop: Movies & UFOs](week-2/workshop/README.md)     
     * [Lab: GAP Part I](week-2/lab/README.md)  
@@ -39,7 +39,7 @@
 
 * [Week 9: Show and Tell!](week-10/README.md)
 
-<!-- 
+
 * [Week 9: NLP + PCA](week-9/README.md)    (still up in the air)
     * [Workshop I: NLP](week-9/workshop/README.md)        
     * [Workshop II: PCA](week-9/workshop/pca.md)        

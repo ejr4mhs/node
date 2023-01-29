@@ -11,14 +11,14 @@ By the end of this course, our goal is to show what's possible by learning data 
 All weeks will comprise of (1) a lesson delivered through **workshops**, typically as a Jupyter Notebook, (2) supplemental practice to be completed during **labs**, (3) cumulative **projects** that apply data skills to real-world problems. 
 
 ### Course Materials
-All course material (slides, notebooks, datasets, etc.) will live in the [Node GitHub repository](https://github.com/dt3zjy/node). For ease of access, we've setup a mirror at [files.node.ishaandey.com](https://files.node.ishaandey.com/) that'll allow for downloading individual files.
+All course material (slides, notebooks, datasets, etc.) will live in the [Node GitHub repository](https://github.com/dt3zjy/node). For ease of access, we've setup a mirror at [files.node.danieltohti.com](https://files.node.danieltohti.com/) that'll allow for downloading individual files.
 
 ### Schedule
 - [Week 1](./week-1): **What is Data Science?** 
     - [Welcome Survey](https://forms.gle/rNWabuQsRDWTXhxB8)
     - Walk through the data science process with a Crime dataset
     - *Lab*: Setup tools for the semester
-
+<!--
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
     - *Lab*: Develop business insights with Gap sales data
@@ -35,7 +35,7 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 5](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
     - *Lab*: Start the ML pipeline to predict Node student majors
-<!--
+
 - [Week 7](./week-7): **Breaking the Black Box** 
     - A visual dive into some classification methods: decision trees and k-nearest neighbors
     - *Lab*: Understand model behavior with explainable machine learning
