@@ -7,7 +7,7 @@ Today we'll be working with IMDB movie data. We'll cover the fundamentals of wor
 | ---------------                | --------------- | ----------   |
 | Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-18-2020 | 
 | Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 09-21-2021 |
-| Exit Ticket                    | [![Link](../tools/buttons/open-forms.svg)](https://forms.gle/oU715dAQPu35tyMa8) | Due 09-25-2022 3:00 PM |
+| Exit Ticket                    | [![Link](../tools/buttons/open-forms.svg)](https://forms.gle/oXi9ZPsM3FePUFNv5) | Due 02-26-2023 3:00 PM |
 
 ### Additional Resources
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf):  An absolute lifesaver, keep it bookmarked
