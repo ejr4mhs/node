@@ -1,7 +1,7 @@
 # Node
 ![](tools/images/forge-coral-banner.png)
 
-Welcome! Node is a ten-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge.co/), where you'll pick up **core data literacy skills** and apply them in domains of interest.
+Welcome! Node is an eight-week introductory data science course offered by [Forge (formerly HackCville)](https://joinforge.co/), where you'll pick up **core data literacy skills** and apply them in domains of interest.
 
 Among other things, we'll learn the foundations of *data manipulation*, *exploratory data analysis*, *machine learning*, and apply them towards our own areas of interests in projects. Though the course assumes some basic knowledge of programming or familiarity with Python, all are welcome.
 
@@ -52,4 +52,4 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 Feel free to contact the team at *daniel.tohti@joinforge.co* with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by Daniel Tohti and Ishaan Dey at Forge (formerly HackCville), Fall 2022. **All content rights belong to Daniel Tohti and Ishaan Dey unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, Ishaan Dey, and the Forge team for their feedback and support.
+Content developed by Daniel Tohti and Ishaan Dey at Forge (formerly HackCville), Spring 2023. **All content rights belong to Daniel Tohti and Ishaan Dey unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, Ishaan Dey, and the Forge team for their feedback and support.
