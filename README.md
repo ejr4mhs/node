@@ -17,7 +17,7 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 1](./week-1): **What is Data Science?** 
     - [Welcome Survey](https://forms.gle/rNWabuQsRDWTXhxB8)
     - Walk through the data science process with a Crime dataset
-    - *Lab*: Setup tools for the semester
+    - *Lab*: Introduction to Project 1
 <!--
 - [Week 2](./week-2): **Panda, Panda, Panda** 
     - What is a DataFrame? Learn the lingo of Pandas with masks, chaining, and groupbys
