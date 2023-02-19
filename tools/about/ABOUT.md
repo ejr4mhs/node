@@ -10,7 +10,7 @@ Hello everyone! My name is Daniel and I am a third year at UVA majoring in Aeros
 
 ### Program Coordinators
 #### Evan Rees
-Hey everyone. My name is Evan and I am a second year majoring in Computer Science with a minor in Economics. I’m really looking forward to getting to know all of you this semester. Outside of school and Forge, I enjoy swimming, rock climbing, and playing chess (poorly). If you need to reach me for any reason, don’t hesitate to email me at **ejr4mhs@virginia.edu**
+Hey everyone! My name is Evan and I am a third year double majoring in Computer Science and Commerce. I’m really looking forward to getting to know all of you this semester. Outside of school and Forge, I enjoy swimming, rock climbing, and playing chess (poorly). If you need to reach me foir any reason, don’t hesitate to email me at **ejr4mhs@virginia.edu**
 
 #### Sujith Panchumarthy
 Hey everyone! My name is Sujith and I'm a third year majoring in Physics and minoring in Data Science. I'm excited to work with you all this semester! Beyond school I enjoy mountain biking, working out, gaming, and anime. Feel free to shoot me an email at **vsp2fcs@virginia.edu** to chat!
