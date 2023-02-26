@@ -4,6 +4,12 @@ Imagine you've been hired at a top data consulting firm. They are a new group th
 
 Before setting sail on your project, however, the director must approve your plan of action. This document is incredibly important as it sets the *scope* of the project. No surprise, we call it the **scoping document**. Everything from how the data will be collected to  what kinds of conclusions you're hoping to draw should be described. 
 
+## Group Formation
+
+The first step is to create a group where you will all work together on this project throughout the course. The group should not exceed 3 people, but multiple groups can work on similar (but not the same!) problems. For example, if another group has already chosen to analyze NCAA Basketball data, feel free to look at NFL data, but not NBA data. The spreadsheet linked below will bring you to a place where everyone can put down their names and interests. Don't be afraid to start a new row with your own interests also!
+
+Project Team Formation: [![Link](../tools/buttons/open-drive.svg)](https://docs.google.com/spreadsheets/d/1XJ-UlraRlytaW9-K4aMaoKxy9JdYzUhOCp2P63fAHHY/edit?usp=sharing)
+
 ## Idea Generation
 
 Your first goal is to identify a research idea you'd be interested in researching for the next ten weeks. This can come from anything – personal dataset (i.e. a workout app) or federal agencies (i.e. the US Census).  
@@ -24,7 +30,7 @@ We'll use the following structure adapted from the [Center for Data Science and 
 - **Analysis** – What patterns would you hope to show? How will you describe the data? Are there any columns that can be predicted?
 - **Ethical Considerations** – How can this project support inclusion and equality? Are there similar cases, either historical or ongoing? How did these projects navigate the ethical issues around data collection or usage?
 
-Submit a 1-page, single-spaced ***PDF document*** to Daniel via Slack no later than ***Sunday, February 26th*** at 1pm that has each of the sections above. Only one submission per group, make sure it has all group member names on the top. 
+Submit a 1-page, single-spaced ***PDF document*** to Daniel via Slack no later than ***Friday, March 3rd*** at 10pm that has each of the sections above. Only one submission per group, make sure it has all group member names on the top. 
 
 Any questions? Let Daniel or any of the PCs know on Slack! We're more than happy to help. 
 
