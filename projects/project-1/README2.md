@@ -8,7 +8,7 @@ Before setting sail on your project, however, the director must approve your pla
 
 The first step is to create a group where you will all work together on this project throughout the course. The group should not exceed 3 people, but multiple groups can work on similar (but not the same!) problems. For example, if another group has already chosen to analyze NCAA Basketball data, feel free to look at NFL data, but not NBA data. The spreadsheet linked below will bring you to a place where everyone can put down their names and interests. Don't be afraid to start a new row with your own interests also!
 
-Project Team Formation: [![Link](../tools/buttons/open-drive.svg)](https://docs.google.com/spreadsheets/d/1XJ-UlraRlytaW9-K4aMaoKxy9JdYzUhOCp2P63fAHHY/edit?usp=sharing)
+**Project Team Formation**: [![Link](../../tools/buttons/open-drive.svg)](https://docs.google.com/spreadsheets/d/1XJ-UlraRlytaW9-K4aMaoKxy9JdYzUhOCp2P63fAHHY/edit?usp=sharing)
 
 ## Idea Generation
 
