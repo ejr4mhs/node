@@ -5,9 +5,9 @@ Data cleaning is the least glamorous segment of a data scientist's routine, yet 
 ### Overview
 | **Activity**                   | Content Link    | Last Updated |
 | ---------------                | --------------- | ----------   |
-| Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 02-26-2023 | 
-| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/gap-readme.md)  | 09-27-2021 |
-| Exit Ticket                    | [![Link](../tools/buttons/open-forms.svg)](https://forms.gle/ttw1ktsLFh9sEBou6) | Due 03-19-2023 3:00 PM |
+| Workshop Activities            | [![Link](../tools/buttons/open-markdown.svg)](workshop/README.md) | 09-22-2020 | 
+| Lab                            | [![Link](../tools/buttons/open-article.svg)](lab/README.md)  | 09-27-2021 |
+| Exit Ticket                    | [![Link](../tools/buttons/open-forms.svg)](https://forms.gle/yTSz8AbWn2BFJQNNA) | Due 02-27-2022 3:00 PM |
 
 
 ## Additional Resources
