@@ -10,12 +10,12 @@ Pretend you're a data scientist at Gap Inc., tasked with exploring sales trends 
 ### Notes
 | Interactive Notebook | Source Code  |
 | :-----------: | :------------: |
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-3/lab/gap_cleaning_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-3/lab/gap_cleaning_notes.ipynb) |
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-3/lab/gap_cleaning_notes.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.dt3zjy.com/week-3/lab/gap_cleaning_notes.ipynb) |
 
 ### Key
 | Interactive Notebook | Source Code  |
 | :-----------: | :------------: |
-| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/ishaandey/node/blob/master/week-3/lab/gap_cleaning_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.ishaandey.com/week-3/lab/gap_cleaning_key.ipynb) |
+| [![Link](../../tools/buttons/open-colab.svg)](https://colab.research.google.com/github/dt3zjy/node/blob/master/week-3/lab/gap_cleaning_key.ipynb) | [![Link](../../tools/buttons/download-ipynb.svg)](https://files.node.dt3zjy.com/week-3/lab/gap_cleaning_key.ipynb) |
 
 **Note**: These questions are fairly open ended, and some of them can be quite hard. **We don't expect you to finish**; however much you get through in an hour is more than enough. Think of the rest as extra practice if you'd like. 
 
