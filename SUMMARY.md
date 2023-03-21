@@ -15,7 +15,7 @@
 
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
-    * [Lab: Node Survey](week-3/lab/README.md)  
+    * [Lab: Gap Part II](week-3/lab/README.md)  
 <!-- 
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
