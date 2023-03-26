@@ -19,7 +19,7 @@
 
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
-    * [Lab: Project Work](projects/project-2/README.md)
+    * [Lab: Project Work](projects/project-2/README2.md)
 <!-- 
 * [Week 5: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
