@@ -27,11 +27,11 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 3](./week-3): **Everything Data Wrangling** 
     - Handle irregular data types and aggregate data from several sources
     - *Lab*: Develop business insights with Gap sales data
-<!--
+
 - [Week 4](./week-4): **Show, Don't Tell** 
     - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
     - *Lab*: Practice end-to-end EDA
-
+<!--
 - [Week 5](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
     - *Lab*: Start the ML pipeline to predict Node student majors
