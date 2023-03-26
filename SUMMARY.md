@@ -16,11 +16,11 @@
 * [Week 3: Data Cleaning!](week-3/README.md)    
     * [Workshop: Harry Potter and the Notebook of Secrets](week-3/workshop/README.md)     
     * [Lab: Gap Part II](week-3/lab/README.md)  
-<!-- 
+
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: More with Plotly](week-4/lab/README.md)
-
+<!-- 
 * [Week 5: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
     * [Workshop II: Heart Disease](week-6/workshop/README.md)     

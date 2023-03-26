@@ -1,6 +1,6 @@
 # Seattle Rental Market
 
-Today we'll be using the Plotly interface in Python to generate visualizations of the Seattle rental market, through Airbnb and Zillow data. If you're interested in other types of plots (line plots, choropleth, animations, etc), check out the Plotly Python documentation, as well as the Part I and Part II notebooks.
+Today we'll be using the Plotly interface in Python to generate visualizations of the Seattle rental market, through Airbnb and Zillow data. If you're interested in other types of plots (line plots, choropleth, animations, etc), check out the Plotly Python documentation.
 
 ### Notes 
 
