@@ -18,6 +18,6 @@ After reading the article and by **using your knowledge of how machine learning 
 
 ## Discussion Responses
 
-### F 12:15 PM Lab
+### T 8:00 PM Lab
 
-### F 3:30 PM Lab
+### F 4:00 PM Lab
