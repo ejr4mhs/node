@@ -1,6 +1,6 @@
-# Week 6: Introduction to Machine Learning
+# Week 5: Introduction to Machine Learning
 
-It's been 6 weeks, and you're ready to get your hands dirty with ML!
+It's been 5 weeks, and you're ready to get your hands dirty with ML!
 
 Today's agenda:
 

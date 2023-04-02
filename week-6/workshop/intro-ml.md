@@ -101,7 +101,7 @@ Take our spotify data from before:
 |3|Quinn XCII, Jeremy Zucker, AJR, Alec Benjamin|
 |4|Lauv, Quinn XCII, Dean Lewis, Alec Benjamin, Joel Adams|
 
-There's isn't necessarily a strict label for each artist. From a first glance, lines 1 & 2 seem to have only hip-hop and rap artists, while 3 & 4 fall along pop or electropop artists. 
+There isn't necessarily a strict label for each artist. From a first glance, lines 1 & 2 seem to have only hip-hop and rap artists, while 3 & 4 fall along pop or electropop artists. 
 
 But what about artists like Post Malone, who regularly gets listens from users who otherwise usually just listen to pop radio stations?
 

@@ -20,11 +20,13 @@
 * [Week 4: Data Viz!](week-4/README.md)    
     * [Workshop: Airbnb Listings](week-4/workshop/README.md)     
     * [Lab: Project Work](projects/project-2/README2.md)
-<!-- 
+
 * [Week 5: Machine Learning!](week-6/README.md)    
     * [Workshop I: Human Intuition](week-6/workshop/intro-ml.md)    
-    * [Workshop II: Heart Disease](week-6/workshop/README.md)     
-    
+    * [Workshop II: Heart Disease](week-6/workshop/README.md)   
+    * [Lab: Google AI Article](week-6/lab/README.md)
+
+<!-- 
 * [Week 6: Presentations](week-5/README.md)
      
 * [Week 7: Algorithms & Performance](week-7/README.md)    

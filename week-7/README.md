@@ -1,4 +1,4 @@
-# Week 7: Machine Learning Models and Classification Metrics
+# Week 6: Machine Learning Models and Classification Metrics
 
 ## Overview
 | **Activity**                   | Content Link    | Last Updated |

@@ -31,11 +31,11 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 4](./week-4): **Show, Don't Tell** 
     - Let your audience explore with you by building dynamic visualizations of the Seattle rental market
     - *Lab*: Practice end-to-end EDA
-<!--
+
 - [Week 5](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
-    - *Lab*: Start the ML pipeline to predict Node student majors
-
+    - *Lab*: Reading an article about Google's AI
+<!--
 - [Week 7](./week-7): **Breaking the Black Box** 
     - A visual dive into some classification methods: decision trees and k-nearest neighbors
     - *Lab*: Understand model behavior with explainable machine learning
