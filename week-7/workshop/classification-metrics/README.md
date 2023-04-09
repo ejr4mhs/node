@@ -1,7 +1,7 @@
 # Classification Metrics
 
 ## Confusion Matrix
-Slides: [![Link](../../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1oR5XZytsbD5btLv-JBUqBnenNpEsd10cI0gC12qcDyo/edit?usp=sharing)
+Slides: [![Link](../../../tools/buttons/open-drive.svg)](https://docs.google.com/presentation/d/1ObkqdRy_Dfv-UQWqFsYPraWgtxVzVnycK_HgWx_g4vw/edit?usp=sharing)
 
 ### Notebooks
 | Lesson | Quick Open | Interactive Notebook | Source Code  | 
