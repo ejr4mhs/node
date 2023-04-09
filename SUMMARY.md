@@ -34,8 +34,6 @@
 <!-- 
 * [Week 6: Presentations](week-5/README.md)
      
-
-
 * [Week 8: Regression Models & Bias Variance](week-8/README.md)    
     * [Workshop I: Linear Regression](week-8/workshop/lin-reg/lin-reg.md)    
     * [Workshop II: Bias Variance](week-8/workshop/bias-var/bias_var.md)
