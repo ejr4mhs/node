@@ -26,13 +26,15 @@
     * [Workshop II: Heart Disease](week-6/workshop/README.md)   
     * [Lab: Google AI Article](week-6/lab/README.md)
 
+* [Week 6: Algorithms & Performance](week-7/README.md)    
+    * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
+    * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
+    * [Lab: Confusion Matrices in Detail](week-7/lab/README.md)
+
 <!-- 
 * [Week 6: Presentations](week-5/README.md)
      
-* [Week 7: Algorithms & Performance](week-7/README.md)    
-    * [Workshop I: KNN and Decision Trees](week-7/workshop/README.md)   
-    * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
-    * [Lab: Confusion Matrices in Detail](week-7/lab/README.md) 
+
 
 * [Week 8: Regression Models & Bias Variance](week-8/README.md)    
     * [Workshop I: Linear Regression](week-8/workshop/lin-reg/lin-reg.md)    

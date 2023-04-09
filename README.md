@@ -35,10 +35,12 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 5](./week-6): **I, Robot** 
     - A conceptual introduction to AI and ML. Identify applications and build an intuition for the ML pipeline
     - *Lab*: Reading an article about Google's AI
-<!--
-- [Week 7](./week-7): **Breaking the Black Box** 
+
+- [Week 6](./week-7): **Breaking the Black Box** 
     - A visual dive into some classification methods: decision trees and k-nearest neighbors
     - *Lab*: Understand model behavior with explainable machine learning
+<!--
+
 - [Week 8](./week-8): **More Than Just Accuracy** 
     - Critically evaluate model performance through an animated approach
     - *[Project 3](./project-3) (Option 1)*: Compete with your peers on Kaggle to build the best model
