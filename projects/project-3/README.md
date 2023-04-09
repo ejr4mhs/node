@@ -4,7 +4,7 @@ Here's where we started our journey, two and a half months ago:
 
 > Imagine you've been hired at a top tier quantitative think tank – HackyForge. They are a new group that tackles contemporary issues from an analytical angle. Sometimes there are clients, but oftentimes the team publishes with the intention of releasing their findings into the public domain.
 
-After 10 weeks, you've got an incredible work product: visualizations and quantitative explorations of the data from Part II, and now predictive models investigating your questions of interest. Your directors at HackyForge want you to present these findings to a panel of potential investors, who are all interested in the projects that HackyForge generates. The **best project will recieve "funding" from investors** (last year was a $150 gift card) and have their work put on showcase (on our Forge-wide site).
+After 8 weeks, you've got an incredible work product: visualizations and quantitative explorations of the data from Part II, and now predictive models investigating your questions of interest. Your directors at HackyForge want you to present these findings to a panel of potential investors, who are all interested in the projects that HackyForge generates.
 
 ## Analysis
 
