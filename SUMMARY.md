@@ -31,7 +31,7 @@
     * [Workshop II: Classification Metrics](week-7/workshop/classification-metrics/README.md)    
     * [Lab: Confusion Matrices in Detail](week-7/lab/README.md)
 
-<!-- 
+
 * [Week 6: Presentations](week-5/README.md)
      
 * [Week 8: Regression Models & Bias Variance](week-8/README.md)    
@@ -47,7 +47,7 @@
     * [Workshop II: PCA](week-9/workshop/pca.md)        
 
 
-
+<!-- 
 ## Archives
 
 * [DevOps!](archives/devops/README.md)    
