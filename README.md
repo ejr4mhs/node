@@ -39,6 +39,10 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 - [Week 6](./week-7): **Breaking the Black Box** 
     - A visual dive into some classification methods: decision trees and k-nearest neighbors
     - *Lab*: Understand model behavior with explainable machine learning
+
+- [Week 7](./week-8): **Regressions and More**
+    - Exploring more machine learning models through regression: linear regression and logistic regression
+    - *Lab*: Deeper dive into logistic regression
 <!--
 
 - [Week 8](./week-8): **More Than Just Accuracy** 
