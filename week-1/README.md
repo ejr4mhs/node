@@ -1,6 +1,6 @@
 # Week 1: Welcome to Data Science!
 
-Welcome to Node! We're glad to have you. This week we'll help you get your bearings on what data science really means. Hopefully by the end of the course, you'll each come up with your own interpretation. 
+Welcome to Data Science! We're glad to have you. This week we'll help you get your bearings on what data science really means. Hopefully by the end of the course, you'll each come up with your own interpretation. 
 
 ### Overview
 | **Activity**                   | Content Link    | Last Updated |
