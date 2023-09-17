@@ -58,4 +58,4 @@ All course material (slides, notebooks, datasets, etc.) will live in the [Node G
 Feel free to contact the team at *ejr4mhs@virginia.edu* with any questions about content or request permission to use material.
 
 ### Contributors
-Content developed by Evan Rees and Daniel Tohti at Forge (formerly HackCville), Spring 2023. **All content rights belong to Evan Rees and Daniel Tohti unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, Ishaan Dey, Daniel Tohti, and the Forge team for their feedback and support.
+Content developed by Evan Rees and Daniel Tohti at Forge (formerly HackCville), Fall 2023. **All content rights belong to Evan Rees and Daniel Tohti unless otherwise stated.** See [About & Permissions](tools/about/ABOUT.md) for contact information. Shoutout to Christian Jung, Ben Artuso, Ishaan Dey, Daniel Tohti, and the Forge team for their feedback and support.
